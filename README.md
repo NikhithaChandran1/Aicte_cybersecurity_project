@@ -1,5 +1,5 @@
 # Aicte_cybersecurity_project
-This is apart of the AICTE IBM Skillsbuild Internship on Cybersecurity done by Nikhitha Konnikkara Chandran.
+This is a part of the AICTE IBM Skillsbuild Internship on Cybersecurity done by Nikhitha Konnikkara Chandran.
 
 
 Image Steganography using OpenCV
